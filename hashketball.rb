@@ -6,7 +6,7 @@ def game_hash
         {:player_name => " " },
         {:number => Integer},
         {:shoe => Integer},
-        {:points => Integer},
+        {:points => Integer}
       ]
   },
   {:away => {}}
